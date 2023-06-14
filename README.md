@@ -12,14 +12,14 @@ $ 143 / 7 = 20.4$ lines per hour
 
 this diagram shows how the classes use each other. This time CountLines is the main class which will be using counter and in it the class LineCounter is summoned to allow the visit to each file in the directory making the acumulation of the lines.
 
-![test report](images\clases.png)
+![class diagram](https://github.com/sebasporras14/ARSWloc/blob/master/images/clases.png)
 
 
 ## Running the tests
 
 we run the taste made to check the functionality of the methods done and got the result:
 
-![test report](images\TestReport.png)
+![test report](https://github.com/sebasporras14/ARSWloc/blob/master/images/TestReport.png)
 
 ### tests
 there are 4 test were made to cover the principal functions of the program.
