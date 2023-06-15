@@ -21,6 +21,10 @@ we run the taste made to check the functionality of the methods done and got the
 
 ![test report](https://github.com/sebasporras14/ARSWloc/blob/master/images/TestReport.png)
 
+### ejemplo de ejecucion por consola:
+
+java -cp "./target/classes" edu.escuelaing.arsw.app.CountLines type "path" 
+
 ### tests
 there are 4 test were made to cover the principal functions of the program.
 
