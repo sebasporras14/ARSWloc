@@ -57,8 +57,6 @@ public void testrecursiveCountCodeLines() {
 this is an example how it is coded. It will use the method recursiveCount of the class Counter to count the lines of code of all the files in app. using assertEquals it proves the method count the same amount as was expected.
 
 ## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [java](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
