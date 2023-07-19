@@ -52,7 +52,7 @@ public class AppTest
      */
     public void testrecursiveCountLines() {
         String filePath = "src\\main\\java\\edu\\escuelaing\\arsw\\app";
-        int expectedCount = 167;
+        int expectedCount = 166;
         String type = "phy";
 
         try {

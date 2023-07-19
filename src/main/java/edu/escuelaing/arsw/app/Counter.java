@@ -11,7 +11,7 @@ public class Counter {
     
     
     /* 
-     * counts the lines according to thje type of count, if the type is not one of the required ones will return a message
+     * counts the lines according to the type of count, if the type is not one of the required ones will return a message
      * @param type
      * @param path
      * @param pattern
